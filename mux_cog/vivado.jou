@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct  7 20:44:24 2024
+# Process ID: 16668
+# Current directory: D:/minor_project/rev/mux_cog
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2792 D:\minor_project\rev\mux_cog\mux_cog.xpr
+# Log file: D:/minor_project/rev/mux_cog/vivado.log
+# Journal file: D:/minor_project/rev/mux_cog\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/minor_project/rev/mux_cog/mux_cog.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+launch_simulation
+source mux_tb.tcl
+close_sim
+launch_simulation
+source mux_tb.tcl
+close_sim

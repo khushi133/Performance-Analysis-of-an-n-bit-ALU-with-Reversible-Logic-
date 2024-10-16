@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/minor_project/rev/mux_cog/mux_cog.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/minor_project/rev/mux_cog/mux_cog.srcs/sim_1/new/mux_tb.v,1728118397,verilog,,,,mux_tb,,,,,,,,
+D:/minor_project/rev/mux_cog/mux_cog.srcs/sources_1/new/cog.v,1728317644,verilog,,D:/minor_project/rev/mux_cog/mux_cog.srcs/sources_1/new/mux.v,,cog,,,,,,,,
+D:/minor_project/rev/mux_cog/mux_cog.srcs/sources_1/new/mux.v,1728317661,verilog,,D:/minor_project/rev/mux_cog/mux_cog.srcs/sim_1/new/mux_tb.v,,mux,,,,,,,,

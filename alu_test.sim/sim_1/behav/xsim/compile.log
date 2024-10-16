@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/adder_subtractor_dkg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_subtractor_dkg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/cog.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cog
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/dkg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dkg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/logic_gates_peres.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module logic_gates_peres
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/notgate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module notgate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sources_1/new/peres.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module peres
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/minor_project/rev/alu_test/alu_test.srcs/sim_1/new/alu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_tb

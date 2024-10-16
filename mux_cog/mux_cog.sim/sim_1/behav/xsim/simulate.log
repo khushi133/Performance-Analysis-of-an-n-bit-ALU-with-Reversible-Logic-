@@ -1,0 +1,11 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+At time                    0: D = 000001, S = 000, Y = 1
+At time                10000: D = 000010, S = 001, Y = 0
+At time                20000: D = 101101, S = 010, Y = 1
+At time                30000: D = 001000, S = 011, Y = 0
+At time                40000: D = 010000, S = 100, Y = 0
+At time                50000: D = 101101, S = 101, Y = 1
+At time                60000: D = 111111, S = 110, Y = 1
+At time                70000: D = 111111, S = 111, Y = 0
+$finish called at time : 80 ns : File "D:/minor_project/rev/mux_cog/mux_cog.srcs/sim_1/new/mux_tb.v" Line 24
