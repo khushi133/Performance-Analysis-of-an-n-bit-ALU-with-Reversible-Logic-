@@ -6,3 +6,8 @@ Software: Vivado​
 Language: Verilog HDL​
 
 Code to Schematic​
+
+Logic Gates used :
+Arithmetic Operations - DKG gate
+Logical Operations - Peres gate
+MUX - COG gate
